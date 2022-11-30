@@ -186,3 +186,5 @@ void Heap<T,PComparator>::push(const T& item)
   }
 
 }
+
+#endif
